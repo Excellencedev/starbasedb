@@ -48,7 +48,7 @@
         "wrangler": "^3.96.0"
     },
     "dependencies": {
-        "@libsql/client": "^0.14.0",
+        "@libsql/client": "^0.15.12",
         "@outerbase/sdk": "2.0.0-rc.3",
         "clsx": "^2.1.1",
         "cookie": "^1.0.2",

@@ -97,11 +97,9 @@ web_modules/
 
 # dotenv environment variable files
 
-.env
 .env.development.local
 .env.test.local
 .env.production.local
-.env.local
 
 # parcel-bundler cache (https://parceljs.org/)
 
@@ -179,3 +177,4 @@ public/*
 
 .dev.vars
 .wrangler/
+config.bat
